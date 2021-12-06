@@ -1,4 +1,4 @@
-# VTU_notes
+# VTU_ENGG_Resources
 (Data Analysis and Algorithm)<br>
 https://www.javatpoint.com/daa-tutorial 
 <br>(Full video on DAA)<br>
