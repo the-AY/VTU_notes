@@ -24,11 +24,11 @@ https://sites.google.com/a/gmit.ac.in/18cs44/
 <br>(All in one computer science video channel)
 https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w<br>
 https://youtu.be/YoXxevp1WRQ
-<br>(Aptitude<br>)
+<br>(Aptitude)<br>
 For Practice:-
 https://leetcode.com/<br>
 https://youtu.be/N1Ak5RSAFww<br>
-https://www.geeksforgeeks.org/<br>must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=leftbar-rightbar
+https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=leftbar-rightbar
 <br>(How to get internships )<br>
 https://youtu.be/wYYUf6eq96E
 <br>(Coding questions )<br>
